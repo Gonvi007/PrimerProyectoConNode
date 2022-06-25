@@ -1,5 +1,5 @@
 {
-  "name": "hola-mundo",
+  "name": "01-Introduccion-NodeJs",
   "version": "1.0.0",
   "description": "Este es mi primer proyecto usando NodeJs",
   "main": "index.js",
